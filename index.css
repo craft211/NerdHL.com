@@ -68,10 +68,14 @@
   align-items: flex-start;
   justify-content: center;
 }
+.home-link {
+  display: contents;
+}
 .home-image1 {
   width: 200px;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-container5 {
   flex: 0 0 auto;
@@ -82,8 +86,12 @@
   align-items: flex-start;
   justify-content: center;
 }
+.home-link1 {
+  display: contents;
+}
 .home-image2 {
   width: 200px;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
