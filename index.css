@@ -110,7 +110,7 @@
   align-items: flex-start;
   justify-content: center;
 }
-.nerd-hl-link3{
+.nerd-hl-link3 {
   display: contents;
 }
 .nerd-hl-image3 {
@@ -139,17 +139,17 @@
   text-decoration: none;
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
   .nerd-hl-container3 {
     position: static;
   }
 }
-@media(max-width: 767px) {
+@media (max-width: 767px) {
   .nerd-hl-container3 {
     position: static;
   }
 }
-@media(max-width: 479px) {
+@media (max-width: 479px) {
   .nerd-hl-text {
     padding-top: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-unit);
